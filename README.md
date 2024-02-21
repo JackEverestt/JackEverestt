@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackEverestt
-- 👀 I’m interested in Software Developement
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python
 
 
